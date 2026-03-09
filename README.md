@@ -11,13 +11,16 @@ It contains small programs and examples that helped me practice problem solving 
 
 Each file contains a simple logic challenge in JavaScript:
 
-- `hello-world.js` — basic first JS program  
-- `even-odd.js` — check if a number is even or odd  
-- `factorial.js` — calculate factorial  
-- `reverse-string.js` — reverse a string  
-- `area-rectangle-calculator.js` — compute area of a rectangle  
-- `smallest-three-number.js` — find smallest of three numbers  
-- `two-sum.js` — sum of two numbers
+- `00-smallest-three-number.js` — find smallest of three numbers
+- `0-two-sum.js` - sum of two number
+- `1-area-rectangle-calculator.js` — compute area of a rectangle  
+- `2-even-odd.js` — check if a number is even or odd 
+- `3-reverse-string.js` — reverse a string  
+- `4-factorial.js` — calculate factorial  
+- `5-calculate-leap-year.js` — Check leap year
+- `6-sum-of-digit.js` — calculate sum of digit
+- `7-multiplication-table.js` — calculate multiplication table
+- 
 
 ---
 
