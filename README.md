@@ -20,7 +20,8 @@ Each file contains a simple logic challenge in JavaScript:
 - `5-calculate-leap-year.js` — Check leap year
 - `6-sum-of-digit.js` — calculate sum of digit
 - `7-multiplication-table.js` — calculate multiplication table
-- 
+- `8-find-biggest-num-array.js` — find biggest number in a array
+
 
 ---
 
