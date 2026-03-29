@@ -7,7 +7,7 @@ function isPrimeNumber(number) {
   if (number % 2 === 0) return false;
   let result = true;
 
-  for (let i = 3; i < number; i = i + 2) {;
+  for (let i = 3; i < number; i = i + 2) {
     if (number % i === 0) {
       result = false;
       break;
